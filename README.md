@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 when I first started analyzing data.<br>📚 I'm currently learning advanced machine learning techniques and Python for data science<br>🎯 Goals: To uncover actionable insights from big data and become proficient in AI-driven analytics.<br>🎲 Fun fact: I can create complex data models but I still can't make sense of my own Spotify playlists.</p>
+<p align="left">✨ Exploring patterns and insights since 2023 when I first started analyzing data.<br>📚 I'm currently learning advanced machine learning techniques and Python for data science<br>🎯 Goals: To uncover actionable insights from big data and become proficient in AI-driven analytics.<br>🎲 Fun fact: I can create complex data models but I still can't make sense of my own Spotify playlists.</p>
 
 ###
 
